@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+<img src="https://github-readme-stats.vercel.app/api?username=CorneilleEdi&&show_icons=true&title_color=ffffff&icon_color=ffd974&text_color=ffffff&bg_color=091012" alt="profile">
+
 ## Let's go in english first
-My name is **Corneille**, student in Computer Engineering and I am 20 years old.
+My name is **Corneille**, student in Computer Science Engineering and I am 20 years old.
 
 I am passionate about programming and new techs.
 I love everything related to **mobile development 📱**, **Web development (especially the backend)**, **algorithmic 📊**,
