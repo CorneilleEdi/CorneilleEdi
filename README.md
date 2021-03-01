@@ -3,11 +3,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=CorneilleEdi&&show_icons=true&title_color=ffffff&icon_color=ffd974&text_color=ffffff&bg_color=091012" alt="profile">
 
 ## Let's go in english first
-My name is ** Corneille **, a student in Computer Engineering and I am 20 years old.
+My name is **Corneille**, a student in Computer Engineering and I am 21 years old.
 
 I am very passionate about programming and new techs.
-I love everything related to ** algorithmics 📊 **,
-** Cloud computing ** ☁ and ** backend enginering ** ⚙️.
+I love everything related to **algorithmics 📊**,
+**Cloud computing** ☁ and **backend enginering** ⚙️.
 
 I'm also the person behind the ** Loopbin ** blog. I write tutorials and articles.
 
@@ -44,7 +44,7 @@ As a computer science student, I am interested in **algorithmic design**, **syst
 - Emoticons 😉
 
 ## Un peu de francais 
-Je m'appelle **Corneille**, étudiant en Ingénierie Informatique et je suis agé de 20 ans.
+Je m'appelle **Corneille**, étudiant en Ingénierie Informatique et je suis agé de 21 ans.
 
 Je suis un grand passionné de programmation et des nouvelles techs.
 J'adore tout ce qui touche à **l'algorithmique 📊**,
