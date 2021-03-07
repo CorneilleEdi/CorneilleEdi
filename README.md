@@ -9,9 +9,9 @@ I am very passionate about programming and new techs.
 I love everything related to **algorithmics 📊**,
 **Cloud computing** ☁ and **backend enginering** ⚙️.
 
-I'm also the person behind the ** Loopbin ** blog. I write tutorials and articles.
+I'm also the person behind the **Loopbin** blog. I write tutorials and articles.
 
-As a computer science student, I am interested in **algorithmic design**, **system architecture**, **cloud computing**, **network** and **databases**. I am the founder of the start-up [BytesLabs] (https://byteslabs.dev) in which me and my colleagues are working on projects for the development of mobile applications, websites and system design.
+As a computer science student, I am interested in **algorithmic design**, **system architecture**, **cloud computing**, **network** and **databases**. I am the founder of the start-up [BytesLabs](https://byteslabs.dev) in which me and my colleagues are working on projects for the development of mobile applications, websites and system design.
 
 ## My things
 - Algorithmic
