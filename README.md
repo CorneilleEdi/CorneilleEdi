@@ -28,12 +28,13 @@ As a computer science student, I am interested in **algorithmic design**, **syst
 - Github Actions / Gitlab CI
 - Linux 🐧
 - Vagrant
+- Terraform
+- Pulumi
 - Docker 🐳
 - Microservice
 - databases (MySQL, PostgreSQL, MongoDB, Redis)
 - Firebase 🔥
 - Google Cloud ☁
-- AWS
 - Raspberry
 - Android development
 - Dart
@@ -69,12 +70,13 @@ En tant qu'étudiant en informatique, je m'intéresse au **design des algorithmi
 - Github Actions / Gitlab CI
 - Linux 🐧
 - Vagrant
+- Terraform
+- Pulumi
 - Docker 🐳
 - Microservice
 - bases de données (MySQL, PostgreSQL, MongoDB, Redis)
 - Firebase 🔥
 - Google Cloud ☁
-- AWS
 - Raspberry
 - Développement Android
 - Dart
