@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Ayao Corneille Allogbalo** aka **Corneille Edi**. I'm student in Computer Engineering and I am 21 years old.
+My name is **Ayao Corneille Allogbalo** aka **Corneille Edi**. I am doing a master's degree in Systems and Software Engineering and I'm 22 years old.
 
 I am very passionate about programming and new techs.
 
