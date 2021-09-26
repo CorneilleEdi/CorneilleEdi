@@ -17,29 +17,25 @@ As a computer science student, I am interested in **algorithms**, **system archi
 
 ## My things
 - Algorithmic
-- Development
+- Software Development
 - Testing / TDD (Jest, Mocha, JUnit)
+- Rx
 - Java / Kotlin
 - Typescript
 - NodeJs
-- RxJs / RxJava
 - NestJs 🐈
-- Spring / Spring Boot
 - RabbitMQ
 - Git (Github, Gitlab)
 - Github Actions / Gitlab CI
 - Linux 🐧
 - Vagrant
-- Terraform
-- Pulumi
+- Terraform / Pulumi
 - Docker 🐳
-- Microservice
+- Rest API
 - Databases (MySQL, PostgreSQL, MongoDB, Redis)
-- Firebase 🔥
-- Google Cloud ☁
+- Firebase 🔥 / Google Cloud
 - Raspberry
 - Android development
-- Dart
 - Flutter
 - Coffee ☕️
 - Movies and Series 🎬
