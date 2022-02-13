@@ -2,24 +2,24 @@
 
 My name is **Ayao Corneille Allogbalo** aka **Corneille Edi**. I am doing a master's degree in Systems and Software Engineering and I'm 22 years old.
 
-I am very passionate about programming and new techs.
+I'm a Backend and Cloud developer.
 
 I'm also the person behind the [Loopbin](https://loopbin.dev) blog. I write tutorials and I host live sessions on [Loopbin Meet](https://meet.loopbin.dev) .
 
-As a computer science student, I am interested in **algorithms**, **system architecture**, **cloud computing**, **network** and **databases**. I am the founder of the start-up [BytesLabs](https://byteslabs.dev) in which me and my colleagues are developing mobile applications, websites and backend systems.
+As a computer science student, I am interested in **algorithms**, **system architecture**, **cloud computing**, **network** and **databases**.
 
 ## Reach me via 👇
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayao-corneille-allogbalo/)
-[![Twitter](https://img.shields.io/badge/Twitter-skyblue.svg?style=for-the-badge&logo=twitter)](https://twitter.com/CorneilleEdi)
+[<img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://www.linkedin.com/in/ayao-corneille-allogbalo)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/CorneilleEdi) 
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=&logoColor=white%22&color=black">](https://loopbin.dev)
 
-<img src="https://github-readme-stats.vercel.app/api?username=CorneilleEdi&&show_icons=true&title_color=ffffff&icon_color=ffd974&text_color=ffffff&bg_color=091012" alt="profile">
+<img src="https://github-readme-stats.vercel.app/api?username=CorneilleEdi&hide_border=true&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=091012" alt="profile">
 
 ## My things
 - Algorithmic
 - Software Development
 - Testing / TDD (Jest, Mocha, JUnit)
-- Rx
 - Java / Kotlin
 - Typescript
 - NodeJs
@@ -31,13 +31,6 @@ As a computer science student, I am interested in **algorithms**, **system archi
 - Vagrant
 - Terraform / Pulumi
 - Docker 🐳
-- Rest API
-- Databases (MySQL, PostgreSQL, MongoDB, Redis)
+- Databases (MySQL, MongoDB, Redis)
 - Firebase 🔥 / Google Cloud
 - Raspberry
-- Android development
-- Flutter
-- Coffee ☕️
-- Movies and Series 🎬
-- Music 🎧
-- Emoticons 😉
