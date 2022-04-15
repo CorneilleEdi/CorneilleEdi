@@ -6,7 +6,7 @@ I'm a Backend and Cloud developer.
 
 - Backend and Cloud architect and developer
 - Bachelor in Computer Science in India 🇮🇳
-- Master in Systems and Software Engineering in France 🇫🇷 (On going)
+- Master in Systems and Software Engineering in France 🇫🇷 (Ongoing)
 
 I'm also the person behind the [Loopbin](https://loopbin.dev) blog. I write tutorials and I host live sessions on [Loopbin Meet](https://meet.loopbin.dev) .
 
