@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-My name is **Ayao Corneille Allogbalo** aka **Corneille Edi**. I am doing a master's degree in Systems and Software Engineering and I'm 22 years old.
+My name is **Ayao Corneille Allogbalo** aka **Corneille Edi**. I'm 22 years old.
 
 I'm a Backend and Cloud developer.
+
+- Backend and Cloud architect and developer
+- Bachelor in Computer Science in India 🇮🇳
+- Master in Systems and Software Engineering in France 🇫🇷 (On going)
 
 I'm also the person behind the [Loopbin](https://loopbin.dev) blog. I write tutorials and I host live sessions on [Loopbin Meet](https://meet.loopbin.dev) .
 
@@ -19,7 +23,7 @@ As a computer science student, I am interested in **algorithms**, **system archi
 ## My things
 - Algorithmic
 - Software Development
-- Testing / TDD (Jest, Mocha, JUnit)
+- Testing / TDD (Jest, Mocha,Cypress,JUnit)
 - Java / Kotlin
 - Typescript
 - NodeJs
@@ -32,5 +36,5 @@ As a computer science student, I am interested in **algorithms**, **system archi
 - Terraform / Pulumi
 - Docker 🐳
 - Databases (MySQL, MongoDB, Redis)
-- Firebase 🔥 / Google Cloud
+- Firebase 🔥 / Google Cloud Platform (certified)
 - Raspberry
