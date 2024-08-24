@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-My name is **Ayao Corneille Allogbalo** aka **Corneille Edi**. I'm 23 years old.
+My name is **Ayao Corneille Allogbalo** aka **Corneille Edi**.
 
 Enthusiast Backend and Cloud architect and developer
 
 - Bachelor in Computer Science in India 🇮🇳
-- Master in Systems and Software Engineering in France 🇫🇷 (Ongoing)
-- Apprentice Public Cloud Engineer at Worldline (Ongoing)
-- Certified [Google Cloud Associate Cloud Engineer](https://www.credential.net/ccfbc629-c59a-4160-8376-5be9f414c130) and [Google Cloud Professional Cloud Architect](https://google.accredible.com/95d7650d-6868-4ebe-abe0-dc12fead5380)
+- Master in Systems and Software Engineering in France 🇫🇷
+- System Engineer (Linux and Cloud) at Worldline
+- Certified [Google Cloud Professional Cloud Architect](https://google.accredible.com/95d7650d-6868-4ebe-abe0-dc12fead5380)
 
 I'm also the person behind the [Loopbin](https://loopbin.dev) blog. I write tutorials and I host live sessions on [Loopbin Meet](https://meet.loopbin.dev) .
 
