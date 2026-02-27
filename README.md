@@ -1,41 +1,46 @@
-### Hi there 👋
+# Hi there 👋
 
-My name is **Ayao Corneille Allogbalo** aka **Corneille Edi**.
+**Ayao Corneille Allogbalo** (Corneille Edi)
 
-Enthusiast Backend and Cloud architect and developer
+> Cloud‑first systems & backend architect | Open‑source enthusiast | Self‑hosted aficionado
 
-- Bachelor in Computer Science in India 🇮🇳
-- Master in Systems and Software Engineering in France 🇫🇷
-- System Engineer (Linux and Cloud) at Worldline
-- Certified [Google Cloud Professional Cloud Architect](https://google.accredible.com/95d7650d-6868-4ebe-abe0-dc12fead5380)
+- Bachelor in Computer Science (India 🇮🇳)  
+- Master in Systems & Software Engineering (France 🇫🇷)  
+- System Engineer – Linux & Cloud at Worldline  
+- Certified **Google Cloud Professional Cloud Architect**
 
-I'm also the person behind the [Loopbin](https://loopbin.dev) blog. I write tutorials and I host live sessions on [Loopbin Meet](https://meet.loopbin.dev) .
+I run the **[Loopbin](https://loopbin.dev)** blog and keep a healthy mix of cloud‑native, open‑source & self‑hosted projects in my toolbox.
 
-As a computer science student, I am interested in **algorithms**, **system architecture**, **cloud computing**, **network** and **databases**.
+> **“I love building systems that run on the cloud but also keep one foot firmly planted in the self‑hosted, open‑source ecosystem.”**
+
+
 
 ## Reach me via 👇
 
-[<img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://www.linkedin.com/in/ayao-corneille-allogbalo)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/CorneilleEdi) 
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=&logoColor=white%22&color=black">](https://loopbin.dev)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayao-corneille-allogbalo">
+    <img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&color=black" alt="LinkedIn badge"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/CorneilleEdi">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&color=black" alt="Twitter badge"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://loopbin.dev">
+    <img src="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&color=black" alt="Website badge"/>
+  </a>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=CorneilleEdi&hide_border=true&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=091012" alt="profile">
 
 ## My things
-- Algorithmic
-- Software Development
-- Testing / TDD (Jest, Mocha,Cypress,JUnit)
-- Python
-- Typescript
-- NodeJs
-- NestJs 🐈
-- Git (Github, Gitlab)
-- Github Actions / Gitlab CI
-- Linux 🐧
-- Vagrant
-- Terraform / Pulumi
-- Docker 🐳
-- Google Cloud Platform / Firebase 🔥
-- Amazon Web Services (AWS)
-- Databases (MySQL, MongoDB, Redis)
-- Raspberry
+
+| Category | Highlights |
+|----------|------------|
+| **Cloud Architecture** | GCP, Azure, AWS, infra‑as‑code (Terraform, Pulumi), CI/CD (GitHub Actions, GitLab CI) |
+| **Containerization & Orchestration** | Docker, Kubernetes, Helm, ArgoCD |
+| **Observability & Monitoring** | Prometheus, Grafana, Loki, OpenTelemetry |
+| **Self‑hosted & DevOps** | Nginx, Home Assistant, PiHole, VPN (WireGuard), GitLab CE |
+| **Programming** | Python, TypeScript/Node.js, NestJS, Go |
+| **Testing & TDD** | Jest, Mocha, Cypress, JUnit, Testcontainers |
+| **Networking & Databases** | MySQL, PostgreSQL, MongoDB, Redis, Kafka |
+| **Community & Education** | Tech talks, workshops, Loopbin Meet live streams |
