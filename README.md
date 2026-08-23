@@ -7,7 +7,7 @@
 - Bachelor in Computer Science (India 🇮🇳)  
 - Master in Systems & Software Engineering (France 🇫🇷)  
 - System Engineer – Linux & Cloud at Worldline  
-- Certified **Google Cloud Professional Cloud Architect**
+- Certified **Google Cloud Professional Cloud Architect** and **Microsoft Certified: Azure Solutions Architect Expert**
 
 I run the **[Loopbin](https://loopbin.dev)** blog and keep a healthy mix of cloud‑native, open‑source & self‑hosted projects in my toolbox.
 
